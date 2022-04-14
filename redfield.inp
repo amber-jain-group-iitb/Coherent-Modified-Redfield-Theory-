@@ -1,0 +1,9 @@
+1836.d0                     !! mass (atomic units)
+1000d0                       !! omg_c (cm-1)
+30.8d0                      !! V_coup (cm-1)
+100d0                       !! V_reorg (cm-1)
+320d0                      !! V_exothermicity (cm-1)
+77d0                       !! temperature (K)
+200d-15                      !!tot_tim 
+0.001d-15                     !!dt
+x
